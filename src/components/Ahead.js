@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function Ahead() {
-gestions.
+
 const [data,setData]=React.useState([])
 const [search,setSearch]=React.useState('')
 const [suggestions,setSuggestions]=React.useState([])
